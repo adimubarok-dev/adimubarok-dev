@@ -44,8 +44,7 @@ Currently building production-style frontend projects and improving software eng
 ## 📂 Featured Projects
 
 ### 🚧 Coming Soon
-- Finance Tracker Dashboard
-- AI SaaS Dashboard
+- E-Commerce App 
 - Project Management App
 
 ---
